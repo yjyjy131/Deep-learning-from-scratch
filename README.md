@@ -9,6 +9,8 @@
 
 - chapter_4-1 : 손실함수, 원핫인코딩과 미니배치
 
+- chapter_4-2 : 배치용 크로스 엔트로피 손실 함수
+
 
 ## Deep-Learning-Zero-To-All-PyTorch
 - lab01_to_lab04-1 : Simple & Multivariate Linear Regression
