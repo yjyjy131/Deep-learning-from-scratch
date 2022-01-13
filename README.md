@@ -11,6 +11,12 @@
 
 - chapter_4-2 : 배치용 크로스 엔트로피 손실 함수
 
+- chapter_4-3 : 편미분 기울기 구하기, 경사하강법, 신경망과 기울기
+
+- chapter_4-4 : 신경망 클래스 구현하기
+
+- chapter_4-5 : 미니배치 학습 구현하기
+
 
 ## Deep-Learning-Zero-To-All-PyTorch
 - lab01_to_lab04-1 : Simple & Multivariate Linear Regression
