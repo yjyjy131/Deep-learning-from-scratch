@@ -17,6 +17,8 @@
 
 - chapter_4-5 : 미니배치 학습 구현하기
 
+- chapter_5-1 : 곱셈계층, 덧셈계층 구현하기
+
 
 ## Deep-Learning-Zero-To-All-PyTorch
 - lab01_to_lab04-1 : Simple & Multivariate Linear Regression
