@@ -13,6 +13,7 @@
 
 ## Pytorch_Basic
 - Chapter4 : Optimization - SGD, Custom Dataset, PIL Image Transform & Cut out
+- Chapter5 : Linear Regression, Non-Linear Regression, Model Evaluation - RMSE
 
 
 ## Deep-Learning-Zero-To-All-PyTorch
