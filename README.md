@@ -1,9 +1,3 @@
-
-## BoostCourse_Team_mission
-- 1주차 과제 : 파이썬 기본
-- 2주차 과제 : 파이썬 클래스 활용
-
-
 ## Deep-learning-from-scratch
 - Chapter_2 : 퍼셉트론 구현
 - Chatper_3-1 : 활성화 함수 구현
