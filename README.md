@@ -9,6 +9,7 @@
 - chapter_4-4 : 신경망 클래스 구현하기
 - chapter_4-5 : 미니배치 학습 구현하기
 - chapter_5-1 : 곱셈계층, 덧셈계층 구현하기
+- chapter_7-1 : Convolution layer 구현하기
 
 
 ## Pytorch_Basic
