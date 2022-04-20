@@ -20,3 +20,4 @@
 ## Deep-Learning-Zero-To-All-PyTorch
 - lab01_to_lab04-1 : Simple & Multivariate Linear Regression
 - lab-10_5 : VGG16
+- lab-11_4 : RNN
