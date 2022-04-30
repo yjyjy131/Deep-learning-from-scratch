@@ -22,5 +22,5 @@
 - Chapter5 : Linear Regression, Non-Linear Regression, Model Evaluation - RMSE
 - Chapter6-2 : AlexNet
 - Chapter6-3 : ResNet
-
+- Chapter7-3 : BiLSTM
 
