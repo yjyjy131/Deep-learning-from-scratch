@@ -11,7 +11,7 @@
 - chapter_5-1 : 곱셈계층, 덧셈계층 구현하기
 - chapter_7-1 : Convolution layer 구현하기
 
-## Deep-Learning-Zero-To-All-PyTorch 🙌
+## Deep-Learning-Zero-To-All-PyTorch 🍎
 - lab-1 ~ lab-4 : Simple & Multivariate Linear Regression
 - lab-10_5 : VGG16
 - lab-11_4 : RNN
@@ -23,4 +23,5 @@
 - Chapter6-2 : AlexNet
 - Chapter6-3 : ResNet
 - Chapter7-3 : BiLSTM
+- Chapter8-6 : Deep K-means algorithm
 
